@@ -1,0 +1,51 @@
+{
+  "origen": "IEEESBITBA/Curso-Python",
+  "carpeta_original": "Curso_Introductorio_Datos",
+  "recuperacion": "2026-10-16",
+  "nota": "Datos didácticos institucionales. Noticia de terceros: recuperación bajo demanda con SHA-256, sin redistribución; originales privados intactos.",
+  "archivos": [
+    {
+      "nombre": "noticia.txt",
+      "url": "https://raw.githubusercontent.com/IEEESBITBA/Curso-Python/5d558a2228cbe7132129b8430950fd341a5f3d1e/Curso_Introductorio_Datos/noticia.txt",
+      "copias": [
+        "clases/clase-02/noticia.txt",
+        "clases/clase-03/noticia.txt"
+      ],
+      "bytes": 2292,
+      "sha256": "99ea9463cc2f3c042dfe64daeab76a9fa95e0dc21d0558ec08dca3bb7e8576c3",
+      "publicacion": "recuperacion_bajo_demanda"
+    },
+    {
+      "nombre": "mediciones.csv",
+      "url": "https://raw.githubusercontent.com/IEEESBITBA/Curso-Python/5d558a2228cbe7132129b8430950fd341a5f3d1e/Curso_Introductorio_Datos/mediciones.csv",
+      "copias": [
+        "clases/clase-02/mediciones.csv"
+      ],
+      "bytes": 282015,
+      "sha256": "0cce3238c2b34e2e48b78a45cdf209971fd9d4cc2cdf7997eaa88db1759a6ddc",
+      "publicacion": "dataset_docente_con_atribucion"
+    },
+    {
+      "nombre": "ControlCalidadBotellas.csv",
+      "url": "https://raw.githubusercontent.com/IEEESBITBA/Curso-Python/5d558a2228cbe7132129b8430950fd341a5f3d1e/Curso_Introductorio_Datos/ControlCalidadBotellas.csv",
+      "copias": [
+        "clases/clase-02/ControlCalidadBotellas.csv",
+        "clases/clase-03/ControlCalidadBotellas.csv"
+      ],
+      "bytes": 229136,
+      "sha256": "4c1eacea51427d0e145f78fe120d59e6981867dbfc0803a3d45dd11d9ee517ed",
+      "publicacion": "dataset_docente_con_atribucion"
+    },
+    {
+      "nombre": "datos.csv",
+      "url": "https://raw.githubusercontent.com/IEEESBITBA/Curso-Python/5d558a2228cbe7132129b8430950fd341a5f3d1e/Curso_Introductorio_Datos/datos.csv",
+      "copias": [
+        "clases/clase-03/datos.csv"
+      ],
+      "bytes": 200,
+      "sha256": "64a5c9c81da3db105e9a583bd7f0163642a82d2e2662a83f00214c8d5c73cfa7",
+      "publicacion": "dataset_docente_con_atribucion"
+    }
+  ],
+  "commit_fuente": "5d558a2228cbe7132129b8430950fd341a5f3d1e"
+}
